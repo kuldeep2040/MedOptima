@@ -8,7 +8,7 @@ const DoctorDetailsPage = (props) => {
   const { doctorId } = useParams();
   const [doctorData, setDoctorData] = useState(null);
   const [reviews, setReviews] = useState([]);
-  const { userDetails, authToken } = useFetchUser();
+  const { userDetails, useFetchUser, authToken } = useFetchUser();
 
   useEffect(() => {
     // Fetch the doctor's details and reviews when the component mounts
@@ -44,7 +44,7 @@ const DoctorDetailsPage = (props) => {
     fetchData(); // Call the fetchData function
   }, [doctorId]); // Re-run effect when doctorId changes
 
-  // const [reviewRating, setReviewRating] = useState(5);
+  // const [Rating, setReviewRating] = useState(5);
   const [userReview, setUserReview] = useState({
     patientName: userDetails.name || '', // Set patientName to user's name
     rating: 5,
