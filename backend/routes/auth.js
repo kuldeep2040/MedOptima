@@ -122,6 +122,8 @@ router.post('/login', [
   }
 
   const { email, password } = req.body;
+  // console.log(req.body.email);
+  // console.log(req.body.password);
   try {
     let user = await User.findOne({ email });
     let doctor = await Doctor.findOne({ email });
