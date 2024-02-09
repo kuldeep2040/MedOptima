@@ -44,7 +44,7 @@ const DoctorDetailsPage = (props) => {
     fetchData(); // Call the fetchData function
   }, [doctorId]); // Re-run effect when doctorId changes
 
-  // const [Rating, setReviewRating] = useState(5);
+  const [reviewRating, setReviewRating] = useState(5);
   const [userReview, setUserReview] = useState({
     patientName: userDetails.name || '', // Set patientName to user's name
     rating: 5,
