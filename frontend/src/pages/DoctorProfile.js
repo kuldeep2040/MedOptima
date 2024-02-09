@@ -8,7 +8,7 @@ const DoctorDetailsPage = (props) => {
   const { doctorId } = useParams();
   const [doctorData, setDoctorData] = useState(null);
   const [reviews, setReviews] = useState([]);
-  const { userDetails, authToken } = useFetchUser();
+  const { userDetails, useFetchUser, authToken } = useFetchUser();
 
   useEffect(() => {
     // Fetch the doctor's details and reviews when the component mounts
