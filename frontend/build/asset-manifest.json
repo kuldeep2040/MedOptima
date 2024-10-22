@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ede2e4d6.css",
+    "main.js": "/static/js/main.06335f80.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/aboutUs.png": "/static/media/aboutUs.f78bf0598c808d94b10b.png",
+    "static/media/MediSync.png": "/static/media/MediSync.e6d4362572f7cc9a9595.png",
+    "static/media/hero-img.jpg": "/static/media/hero-img.21064fce396f6e563e32.jpg",
+    "static/media/doctorProfile.jpg": "/static/media/doctorProfile.683ea584c94eb47d8457.jpg",
+    "static/media/hero.jpg": "/static/media/hero.a2404114c3378e54eb39.jpg",
+    "static/media/expert.jpg": "/static/media/expert.f60ff567bd7379990d0a.jpg",
+    "static/media/virtual-chat.jpg": "/static/media/virtual-chat.e232fef686c6807ba182.jpg",
+    "static/media/doctor.jpg": "/static/media/doctor.7909f6aaf9577c0af0be.jpg",
+    "static/media/schedule.jpg": "/static/media/schedule.34ba29c50dc9b8245071.jpg",
+    "static/media/findDoctor.jpg": "/static/media/findDoctor.2abea96a54529a0fefef.jpg",
+    "static/media/24-7.jpg": "/static/media/24-7.299759a972dbc8a444ef.jpg",
+    "static/media/homepage-img1.jpg": "/static/media/homepage-img1.4eb22d92bac40b39d241.jpg",
+    "static/media/login-phone.jpg": "/static/media/login-phone.099c3d8b87dc13b3b6d6.jpg",
+    "static/media/t3.jpg": "/static/media/t3.32836f6dc0d695ef7e67.jpg",
+    "static/media/pres.jpg": "/static/media/pres.ef75a7de4f79832956e0.jpg",
+    "static/media/t1.jpg": "/static/media/t1.0d783fcd5e896b87fb22.jpg",
+    "static/media/login.jpg": "/static/media/login.ed2ed4a9d02d20563d64.jpg",
+    "static/media/solutions.jpg": "/static/media/solutions.e25b1498fe351b0b595e.jpg",
+    "static/media/t2.jpg": "/static/media/t2.bf356cd50fdf0f3652b7.jpg",
+    "static/media/avatarDoctor.jpg": "/static/media/avatarDoctor.12b0b1da77f7bca551db.jpg",
+    "static/media/footer-bg.svg": "/static/media/footer-bg.6596750343c724ef7437.svg",
+    "index.html": "/index.html",
+    "main.ede2e4d6.css.map": "/static/css/main.ede2e4d6.css.map",
+    "main.06335f80.js.map": "/static/js/main.06335f80.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ede2e4d6.css",
+    "static/js/main.06335f80.js"
+  ]
+}
