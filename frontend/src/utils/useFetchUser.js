@@ -7,7 +7,7 @@ const useFetchUser = () => {
   const fetchUser = useCallback(async () => {
     try {
       if (authToken) {
-        const response = await fetch('http://localhost:5000/api/auth/getuser', {
+        const response = await fetch('https://med-hw59.onrender.com', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
