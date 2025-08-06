@@ -39,11 +39,7 @@ Welcome to the **Online Doctor Consultation Platform**! This innovative web appl
     npm install
     cd frontend
     npm install
-3. Add environement varibles
-    ```bash
-    PORT = 5000
-    MONGO_URI = your-mongodb-uri
-    JWT_SECRET = your-secret-key
+    
 3. Start the development server:
    ```bash
     npm run server
